@@ -1,0 +1,18 @@
+.option {
+}
+
+.neutral {
+  background-color: gainsboro;
+}
+
+.correct {
+  background-color: rgb(181, 231, 106);
+}
+
+.wrong {
+  background-color: rosybrown;
+}
+
+.answer {
+  background-color: rgb(128, 212, 240);
+}

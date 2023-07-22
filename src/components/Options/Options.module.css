@@ -1,0 +1,11 @@
+.options {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+@media (max-width: 550px) {
+  .options {
+    flex-direction: column;
+  }
+}
