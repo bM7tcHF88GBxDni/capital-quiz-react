@@ -1,3 +1,6 @@
+## Preview
+<img src="https://github.com/bM7tcHF88GBxDni/README-GIF-Storage/blob/main/capital-quiz/capital-quiz-frontend.gif" width="70%"/>
+
 ## Overview
 
 - This repository is a React front end that consumes a Lambda repository (capital-quiz-severless-node).
