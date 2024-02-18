@@ -5,7 +5,7 @@
 
 - This repository is a React front end that consumes a Lambda repository (capital-quiz-severless-node).
 
-- Please run both repositories simultaneously.
+- Please run both repositories simultaneously. This is the React repository, find the [Serverless repository here](https://github.com/johnson-singh-software/capital-quiz-serverless-node).
 
 ## How To Run Locally
 
